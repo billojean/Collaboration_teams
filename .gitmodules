@@ -1,0 +1,6 @@
+[submodule "Web_app"]
+	path = Web_app
+	url = https://github.com/billojean/Web_app.git
+[submodule "Android"]
+	path = Android
+	url = https://github.com/billojean/Android.git
